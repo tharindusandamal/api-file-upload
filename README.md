@@ -1,7 +1,7 @@
 # api-file-upload
 file upload using API controller
 
-Here I created a .NET core application, to upload files using api controller, here we can upload multipart files, and JSONs, seriver will save all the documents in tempory document directory that i created. we can send the files from postman, fiddler or any api-client application.
+Here I created a .NET core application, to upload files using api controller, here we can upload multipart files, and JSONs, server will save all the documents in tempory document directory that i created. we can send the files from postman, fiddler or any api-client application.
 
 Url: /api/documents
 Type: POST
