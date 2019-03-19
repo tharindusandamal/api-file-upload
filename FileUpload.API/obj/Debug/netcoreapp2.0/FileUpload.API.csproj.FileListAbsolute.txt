@@ -1,0 +1,11 @@
+D:\Develoment\GIT\DOT NET CORE\FileUpload\FileUpload.API\obj\Debug\netcoreapp2.0\FileUpload.API.csproj.CoreCompileInputs.cache
+D:\Develoment\GIT\DOT NET CORE\FileUpload\FileUpload.API\obj\Debug\netcoreapp2.0\FileUpload.API.AssemblyInfoInputs.cache
+D:\Develoment\GIT\DOT NET CORE\FileUpload\FileUpload.API\obj\Debug\netcoreapp2.0\FileUpload.API.AssemblyInfo.cs
+D:\Develoment\GIT\DOT NET CORE\FileUpload\FileUpload.API\bin\Debug\netcoreapp2.0\FileUpload.API.deps.json
+D:\Develoment\GIT\DOT NET CORE\FileUpload\FileUpload.API\bin\Debug\netcoreapp2.0\FileUpload.API.runtimeconfig.json
+D:\Develoment\GIT\DOT NET CORE\FileUpload\FileUpload.API\bin\Debug\netcoreapp2.0\FileUpload.API.runtimeconfig.dev.json
+D:\Develoment\GIT\DOT NET CORE\FileUpload\FileUpload.API\bin\Debug\netcoreapp2.0\FileUpload.API.dll
+D:\Develoment\GIT\DOT NET CORE\FileUpload\FileUpload.API\obj\Debug\netcoreapp2.0\FileUpload.API.csprojAssemblyReference.cache
+D:\Develoment\GIT\DOT NET CORE\FileUpload\FileUpload.API\bin\Debug\netcoreapp2.0\FileUpload.API.pdb
+D:\Develoment\GIT\DOT NET CORE\FileUpload\FileUpload.API\obj\Debug\netcoreapp2.0\FileUpload.API.dll
+D:\Develoment\GIT\DOT NET CORE\FileUpload\FileUpload.API\obj\Debug\netcoreapp2.0\FileUpload.API.pdb
